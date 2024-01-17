@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Minesweeper (Kotlin)/*
+!/Minesweeper (Kotlin)/task/
+/Minesweeper (Kotlin)/task/*
+!/Minesweeper (Kotlin)/task/src
